@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Arvind from India.<br><br>- 🔭 I’m a MERN STACK Developer.<br>- 📚 I'm currently mastering advanced React concepts.<br>- ⚡ In my free time I walk, read books, and listen to music.</p>
+<p align="left">I'm Arvind .<br><br>- 🔭 I’m a MERN STACK Developer.<br>- 📚 I'm currently exploring stuff things.<br>- ⚡ </p>
 
 ###
 
